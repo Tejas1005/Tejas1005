@@ -1,28 +1,22 @@
-Hi there, I'm Tejas Kumbhare 👋
-🤖 I ❤️ Building AI-Powered Solutions
-<p align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/> </p>
+👋 Hi, I'm Tejas Kumbhare
+🤖 AI Engineering Student | AI Enthusiast | Developer
+<p align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding Animation"> </p>
 👨‍💻 About Me
 
 🎓 AI Engineering Student @ St. Vincent Pallotti College of Engineering, Nagpur
-
 👑 President @ AI Prabodha Forum
-
-🧠 Passionate about Artificial Intelligence, Computer Vision, Deep Learning & Automation
-
+🧠 Passionate about Artificial Intelligence, Computer Vision, Machine Learning & Automation
 🚀 Interested in building innovative AI solutions for real-world problems
-
-🎯 Goal: Turn ideas into intelligent and impactful systems
-
-📫 Reach me: tejaskumbhare716@gmail.com
+🎯 Focused on turning ideas into intelligent and impactful systems
 
 🚀 Featured Projects
 🤟 VoxNova — AI Sign Language Translator
 
-VoxNova is an AI-powered sign language translation system designed to bridge communication gaps.
+An AI-powered system designed to bridge communication gaps using sign language recognition.
 
-🤟 Converts sign language into English, Hindi & Marathi
+🤟 Translates sign language into English, Hindi & Marathi
 
-👁️ Uses Computer Vision & Machine Learning
+👁️ Uses Computer Vision and Machine Learning
 
 ⚡ Designed for real-time sign recognition
 
@@ -30,27 +24,29 @@ VoxNova is an AI-powered sign language translation system designed to bridge com
 
 🚀 Future scope: AI Avatar for real-time sign-language animation
 
-Tech: Python OpenCV Machine Learning Computer Vision
+Tech Stack:
+Python OpenCV Machine Learning Computer Vision
 
 🚗 Car Simulator
 
-An interactive car simulation project focused on creating an engaging and realistic driving experience.
+An interactive car simulation project focused on creating an engaging driving experience.
 
 🏎️ Simulates vehicle movement and controls
 
-🎮 Interactive driving environment
+🎮 Provides an interactive driving environment
 
-🛣️ Real-time user interaction
+🛣️ Includes real-time user interaction
 
 ⚙️ Focuses on vehicle controls and simulation
 
 🚀 Future scope: AI traffic and autonomous-driving features
 
-Tech: C++ Python Simulation Game Development
+Tech Stack:
+C++ Python Simulation Game Development
 
 ♻️ Renova
 
-Renova is a technology-driven solution focused on improving waste management and recycling.
+A technology-driven project focused on improving waste management and recycling.
 
 ♻️ Supports efficient waste collection and management
 
@@ -58,43 +54,42 @@ Renova is a technology-driven solution focused on improving waste management and
 
 📍 Helps optimize collection and resource utilization
 
-🌱 Focused on creating a cleaner and more sustainable environment
+🌱 Focuses on creating a cleaner and more sustainable environment
 
 🚀 Future scope: AI-powered waste classification and route optimization
 
-Tech: Python AI/ML Automation Data Processing
+Tech Stack:
+Python AI/ML Automation Data Processing
 
 🛠️ Tech Stack
-💻 Languages
-
-Python C C++ SQL
-
+💻 Programming Languages
+<p> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"> </p>
 🤖 AI & Machine Learning
-
-TensorFlow OpenCV MediaPipe Machine Learning Deep Learning
-
+<p> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"> <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white"> <img src="https://img.shields.io/badge/Machine%20Learning-8A2BE2?style=for-the-badge"> <img src="https://img.shields.io/badge/Deep%20Learning-FF1493?style=for-the-badge"> </p>
 🧰 Tools & Platforms
+<p> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"> </p>
+🎯 Areas of Interest
 
-Git GitHub VS Code Jupyter Notebook
-
-🎯 Interests
-
-Artificial Intelligence Computer Vision Deep Learning Automation Simulation IoT
-
-🌟 What I'm Building
 🤖 Artificial Intelligence
-        ↓
+
 👁️ Computer Vision
-        ↓
-🧠 Intelligent Systems
-        ↓
-🌍 Real-World Applications
 
+🧠 Machine Learning & Deep Learning
 
-I'm constantly exploring new technologies and building projects that combine AI, software, automation and innovation.
+🚗 Simulation & Intelligent Systems
+
+♻️ Sustainable Technology
+
+⚙️ Automation
+
+🌐 Real-World AI Applications
+
+💡 My Vision
+
+"Turning ideas into intelligent systems that solve real-world problems."
+
+I believe technology becomes meaningful when it can solve practical problems, improve people's lives, and create a positive impact.
 
 📬 Connect With Me
-<div align="center"> <a href="mailto:tejaskumbhare716@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://linkedin.com/in/tejas-kumbhare-632b2530a" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </div>
-<div align="center">
-🔥 "Turning ideas into intelligent systems."
-</div>
+<p align="center"> <a href="mailto:tejaskumbhare716@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"> </a> <a href="https://linkedin.com/in/tejas-kumbhare-632b2530a"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> </p>
+<p align="center"> <b>⭐ Thanks for visiting my profile!</b> </p> <p align="center"> 🚀 <i>Building. Learning. Innovating.</i> 🚀 </p>
