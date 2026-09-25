@@ -1,6 +1,4 @@
 
-
-```
 # 👋 Hi, I'm Tejas Kumbhare
 
 ### 🤖 AI Engineering Student | AI Enthusiast | Developer
@@ -146,4 +144,4 @@ I believe technology becomes meaningful when it can solve practical problems, im
 <p align="center">
   🚀 <i>Building. Learning. Innovating.</i> 🚀
 </p>
-```
+
